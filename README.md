@@ -2,7 +2,8 @@
 
 # ReactRouteDemo
 手动实现React路由. 由于比较懒，代码目前只写了history api实现的路由，计划用React16.3中的新的Context api实现React-router
-readme中在在下面简单介绍两种路由实现方式，网上抄的代码，
+
+readme中在在下面简单介绍两种路由实现方式，下面代码网上搬的，
 
 ### 单页面应用路由的两种实现方式
  . hash方式。 使用location.hash和hashchange事件实现路由。 
